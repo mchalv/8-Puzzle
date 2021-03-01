@@ -1,6 +1,6 @@
 # Uninformed-Search
 
-Tugas: 8-Puzzle
+Tugas: 8-Puzzle\
 Metode: Iterative Deepening Search
 
 Anggota Kelompok:
