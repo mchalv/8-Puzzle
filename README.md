@@ -1,5 +1,8 @@
 # Uninformed-Search
 
+Tugas: 8-Puzzle
+Metode: Iterative Deepening Search
+
 Anggota Kelompok:
 1. Kevin William - C14190081
 2. Leonardo Christofer - C14190125
