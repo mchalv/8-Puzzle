@@ -3,7 +3,7 @@
 Tugas: 8-Puzzle\
 Metode: Iterative Deepening Search
 
-Anggota Kelompok:
+Anggota Kelompok 9:
 1. Kevin William - C14190081
 2. Leonardo Christofer - C14190125
 3. Gregorius Tifanico - C14190135
