@@ -1,6 +1,6 @@
 # Kecerdasan Buatan
 
-Tugas: 8-Puzzle\
+Tugas: 8-Puzzle
 
 Anggota Kelompok 9:
 1. Kevin William - C14190081
