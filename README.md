@@ -1,4 +1,4 @@
-# Uninformed-Search
+# Kecerdasan Buatan
 
 Tugas: 8-Puzzle\
 Metode: Iterative Deepening Search
