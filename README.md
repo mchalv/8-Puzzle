@@ -1,4 +1,4 @@
-# Kecerdasan Buatan
+# Tugas 1 Kecerdasan Buatan
 
 Tugas: 8-Puzzle
 
